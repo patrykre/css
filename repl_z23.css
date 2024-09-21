@@ -1,0 +1,32 @@
+p#pogrubienie_replin {
+    font-size: 31px;
+    color: #9A5BD3; /* rgb(154, 91, 211) */
+}
+
+p#pochylona_replin {
+    font-size: 36pt;
+    color: #FEBF6F; /* rgb(254, 191, 111) */
+}
+
+p#index_gorny_replin {
+    font-size: 1.1cm;
+    color: #AE8D1F; /* rgb(174, 141, 31) */
+}
+
+p#index_dolny_replin {
+    font-size: 1.7cm;
+    color: #4AF1E7; /* rgb(74, 241, 231) */
+}
+
+p#mono_replin {
+    font-size: 41px;
+    color: #2EDD6F; /* rgb(46, 221, 111) */
+}
+
+p#powiekszenie_replin {
+    color: #683DA1; /* rgb(104, 61, 161) */
+}
+
+p#pomniejszenie_replin {
+    color: #CCA13D; /* rgb(204, 161, 61) */
+}
